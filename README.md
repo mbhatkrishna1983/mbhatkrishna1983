@@ -3,7 +3,7 @@
       data virtualisation.
 - 🌱 I’m currently learning data science ,EDA and snowflake 
 - 💞️ I’m looking to collaborate on machine learning and data mangement solutions
-- 📫 LinkedIn  :https://www.linkedin.com/in/krishnamb
+- 📫 LinkedIn  :https://www.linkedin.com/in/krishnamb 
       GITHub    :https://github.com/mbhatkrishna1983
       
       
