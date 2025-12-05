@@ -8,13 +8,15 @@
       
       
 •	Current Employer: Credit Suisse India Pvt Ltd. Bangalore.
-•	IT professional with experience of 14+ years in Oracle8i/9i/10g/10g, PL / SQL/ Developer Suite (Forms & Reports), Pro* C (analytical), UNIX shell scripting,Python, Tableau, Rapid Miner, Python, ML libraries.
+•	Results-driven Data Engineer with 14+ years of hands-on experience building scalable data pipelines and ETL/ELT solutions on Azure and Databricks. Expert in Python, PySpark, and SQL with a proven ability to optimize data workflows, achieving 30-40% performance               improvements. Skilled in migrating legacy systems to modern cloud platforms, implementing Delta Lake solutions, and automating data processes
+
 •	Worked on the complete life cycle of Machine
       learning project from customer data collection till its deployment.  
 •	Hands on experience with Database Administration and Data Warehouse.
 •	Handled projects involved in data analysis and EDA activities of this project by using statistics and Python.
 •	Good knowledge on snowflake architecture and solution . 
 •	Well versed with quality process and Agile, Waterfall model of SDLC.
+
 
 
 <!---
