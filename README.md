@@ -1,4 +1,4 @@
-Hi, I'm Krishna Bhat
+# 👋 Hi, I'm Krishna Bhat
 
 🚀 Senior Data Engineer | Technical Product Manager (Data)  
 📍 Kraków, Poland | 🇪🇺 EU Blue Card  
@@ -55,3 +55,70 @@ I enjoy working at the intersection of:
 - Git, GitHub, GitLab
 - Docker, Podman, Azure CLI
 - Control-M, JIRA, VS Code
+
+---
+
+## 🏗️ Key Experience Highlights
+
+### Associate Director — Credit Suisse / UBS
+- Led **20+ end-to-end data product deliveries** on Azure & Databricks
+- Designed and owned a **Databricks-based data platform** supporting 50+ data sources
+- Migrated **10+ legacy pipelines** from Oracle/Sybase with zero data loss
+- Delivered real-time streaming pipelines with **sub-second latency**
+- Coordinated multi-team delivery, managed dependencies, and led production cutovers
+- Acted as escalation point during **production incidents / war rooms**
+- Mentored engineers and drove engineering best practices
+
+### Data Engineer — Honeywell
+- Built large-scale ETL pipelines processing **multi-terabyte datasets**
+- Optimized SQL and data models for enterprise analytics
+- Designed star and snowflake schemas for data warehouses
+
+### Data Engineer — IBM
+- Developed ETL workflows and data warehouse integrations
+- Implemented SCD logic and performance optimizations
+- Worked with banking, telecom, and enterprise clients
+
+---
+
+## 📌 Selected Projects
+
+- **Legacy Migration to Cloud**  
+  Migrated multiple Oracle & Sybase ETL processes to Azure Databricks and Delta Lake with validation frameworks ensuring zero data loss.
+
+- **Machine Learning Enablement**  
+  Partnered with data science teams to operationalize ML outputs and integrate results into analytics platforms.
+
+---
+
+## 🎓 Education & Certifications
+
+🎓 M.Tech — Data Science & Software Engineering (BITS Pilani)  
+🎓 MCA — St. Aloysius College  
+
+**Certifications**
+- Azure Data Engineer Associate (DP-203)
+- Azure Databricks Data Engineer Associate
+- Azure Fundamentals (AZ-900, DP-900)
+- GitHub Copilot Certification
+- Six Sigma Green Belt
+
+---
+
+## 🏆 Recognition
+
+- 🥇 Winner — Microsoft Copilot Challenge (UBS Kraków, 2025)
+- ⭐ Star Employee of the Quarter
+- 🌍 Community Impact Award (100+ volunteering hours)
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/)
+- 💻 GitHub: https://github.com/yourusername
+- 📧 Email: m.bhatkrishna@gmail.com
+
+---
+
+_“I enjoy building reliable data products that scale — technically and organizationally.”_
