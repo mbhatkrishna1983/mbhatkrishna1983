@@ -1,25 +1,57 @@
-- 👋 Hi, I’m Krshna 
-- 👀 I’m interested in statistics models, data mining ,Data warehouse ,Cloud solutuins on Datawarehouse project.
-      data virtualisation.
-- 🌱 I’m currently learning data science ,EDA
-- 💞️ I’m looking to collaborate on machine learning and data mangement solutions
-- 📫 LinkedIn  :https://www.linkedin.com/in/krishnamb 
-      GITHub    :https://github.com/mbhatkrishna1983
-      
-      
-•	Current Employer: Credit Suisse India Pvt Ltd. Bangalore.
-•	Results-driven Data Engineer with 14+ years of hands-on experience building scalable data pipelines and ETL/ELT solutions on Azure and Databricks. Expert in Python, PySpark, and SQL with a proven ability to optimize data workflows, achieving 30-40% performance               improvements. Skilled in migrating legacy systems to modern cloud platforms, implementing Delta Lake solutions, and automating data processes
+Hi, I'm Krishna Bhat
 
-•	Worked on the complete life cycle of Machine
-      learning project from customer data collection till its deployment.  
-•	Hands on experience with Database Administration and Data Warehouse.
-•	Handled projects involved in data analysis and EDA activities of this project by using statistics and Python.
-•	Good knowledge on snowflake architecture and solution . 
-•	Well versed with quality process and Agile, Waterfall model of SDLC.
+🚀 Senior Data Engineer | Technical Product Manager (Data)  
+📍 Kraków, Poland | 🇪🇺 EU Blue Card  
+☁️ Azure • Databricks • Data Products • Platform Delivery  
 
+---
 
+## 👨‍💻 About Me
 
-<!---
-mbhatkrishna1983/mbhatkrishna1983 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a senior data engineer with **14+ years of experience** designing, delivering, and operating large-scale data platforms on **Microsoft Azure**.
+
+Over the last several years at **Credit Suisse / UBS**, my role has evolved beyond hands-on engineering into **end-to-end ownership of data products** — spanning architecture, delivery, stakeholder alignment, production operations, and governance.
+
+I enjoy working at the intersection of:
+- **Data engineering**
+- **Product thinking**
+- **Cross-team delivery**
+- **Operational excellence**
+
+---
+
+## 🧩 What I Work On
+
+- End-to-end delivery of **production-grade data products**
+- Data platforms on **Azure Databricks** using **Medallion Architecture**
+- Large-scale **ETL / ELT** and data integration pipelines
+- **Legacy migrations** (Oracle / Sybase → Azure Databricks & Delta Lake)
+- **Real-time streaming** with Spark Structured Streaming
+- **Data governance, quality, and monitoring**
+- CI/CD pipelines using **Azure DevOps** and Git-based workflows
+- Supporting **regulatory and executive reporting** use cases
+
+---
+
+## 🛠️ Tech Stack
+
+**Cloud & Platforms**
+- Microsoft Azure, Azure Data Lake Gen2, Azure DevOps
+- Azure Databricks, Delta Lake, AKS
+
+**Big Data & Processing**
+- Apache Spark, PySpark, Spark Structured Streaming
+- Medallion Architecture (Bronze / Silver / Gold)
+
+**Programming & Querying**
+- Python, SQL, Spark SQL, PL/SQL
+- Unix Shell Scripting
+
+**Databases**
+- Oracle, PostgreSQL, Sybase
+- Delta Lake
+
+**DevOps & Tooling**
+- Git, GitHub, GitLab
+- Docker, Podman, Azure CLI
+- Control-M, JIRA, VS Code
